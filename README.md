@@ -35,6 +35,9 @@ Exit
 🔧 Key Concepts Used:
 
 File Handling (ifstream, ofstream) → To store and retrieve login credentials.
+
 Loops & Conditionals → To navigate menu and check authentication.
+
 Strings → For username and password handling.
+
 Basic Security → Passwords are stored as plain text (for learning purpose).
